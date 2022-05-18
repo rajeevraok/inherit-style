@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hey</string>
+    <string name="message">Concretepage.com helps the software developers and interviewees.
+                          Every topic is written with example and concrete explanation.
+                          We write topics mainly on core java, j2ee and java frameworks.
+    </string>
+</resources>
